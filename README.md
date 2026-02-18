@@ -1,14 +1,7 @@
-# ecomm_app
+# Mini-Amazon Terminal Application
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 ![Release Version](https://img.shields.io/badge/Version-1.0.0-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
-
-Here is a **concise, exam-ready README file** written **exactly to match your specification**.
-It is clear, structured, and suitable for coursework submission or an interview review.
-
----
-
-# Mini-Amazon Terminal Application
 
 This is a **Python command-line shopping application** that simulates a basic e-commerce system.
 Users can register, log in, browse products, manage a shopping cart, place orders, and view their order history.
