@@ -1,6 +1,5 @@
 # ecomm_app
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Release Version](https://img.shields.io/badge/Version-1.0.0-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 Here is a **concise, exam-ready README file** written **exactly to match your specification**.
