@@ -1,4 +1,4 @@
-# E-Commerce Terminal Application
+# Star Shopping
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 ![Release Version](https://img.shields.io/badge/Version-1.0.0-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
