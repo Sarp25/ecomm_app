@@ -1,0 +1,38 @@
+[
+    {
+        "product_id": "SP0017",
+        "name": "Iphone 17 256GB",
+        "price": 1101.45,
+        "stock": 126
+    },
+    {
+        "product_id": "HP0510",
+        "name": "JBL Tune 510 BT",
+        "price": 34.99,
+        "stock": 58
+    },
+    {
+        "product_id": "B0006",
+        "name": "BOSCH Series 6 Blender",
+        "price": 182.99,
+        "stock": 73
+    },
+    {
+        "product_id": "SP0020",
+        "name": "Samsung Galaxy S20 FE 128GB",
+        "price": 699.99,
+        "stock": 34
+    },
+    {
+        "product_id": "HP0520",
+        "name": "Sony WH-1000XM4",
+        "price": 348.0,
+        "stock": 42
+    },
+    {
+        "product_id": "AF0012",
+        "name": "Philips Airfryer XXL",
+        "price": 299.99,
+        "stock": 19
+    }
+]
