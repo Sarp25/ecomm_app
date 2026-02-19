@@ -98,3 +98,9 @@ python main.py
 * Shopping cart is **session-based** and resets on logout
 * No admin interface for managing products
 * No database or web interface (terminal-only application)
+
+---
+
+##Author
+
+Sarp Baran Yıldız
