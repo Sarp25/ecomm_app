@@ -1,5 +1,5 @@
 # Star Shopping
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
+[![Python Version](https://img.shields.io/badge/Python-3.13%2B-blue)](https://python.org)
 ![Release Version](https://img.shields.io/badge/Version-1.0.0-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
@@ -12,7 +12,7 @@ Users can register, log in, browse products, manage a shopping cart, place order
 
 ### Requirements
 
-* Python **3.8 or higher**
+* Python **3.13 or higher**
 * All project files in the same directory
 
 ### Steps
