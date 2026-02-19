@@ -103,4 +103,4 @@ python main.py
 
 ## Author
 
-* Sarp Baran Yıldız
+Sarp Baran Yıldız
